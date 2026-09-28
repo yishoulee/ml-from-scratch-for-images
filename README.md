@@ -1,13 +1,15 @@
-# ml-from-scratch-for-images
+# Historical Learning Project: Machine Learning for Images
 
-**Machine learning from scratch:**
-- Implement machine learning methods from scratch in Python, using IRIS and MNIST datasets.
-- Cover line fitting, PCA, k-means, linear classification, logistic regression, SVMs, and Neural Networks.
-- Focus on understanding the algorithms deeply and document your code for learning purposes.
-- Visualize results to enhance comprehension.
+> **Status:** Historical learning project. Retained for reference; not representative of my current work.
 
-**Machine learning for images:**
-- Use Celeb dataset to generate images with autoencoders.
-- Experiment with Variational Autoencoders (VAEs) and different loss functions.
-- Explore data augmentation and transfer learning for better results.
-- Document training process and visualize generated images and loss curves.
+Exercises covering foundational machine-learning algorithms and image-focused experiments.
+
+Topics include:
+
+- linear models and logistic regression
+- PCA and k-means
+- SVMs and neural networks
+- autoencoders and variational autoencoders
+- data augmentation and transfer learning
+
+This repository is kept as a learning record rather than a current portfolio project.
